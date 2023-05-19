@@ -1,1 +1,1 @@
-# Library
+For managing book, author, customer.
